@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\obj\Debug\All_in_One.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\obj\Debug\All_in_One.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\obj\Debug\All_in_One.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\bin\Debug\All_in_One.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\bin\Debug\All_in_One.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\bin\Debug\All_in_One.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\obj\Debug\All_in_One.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\All_in_One\obj\Debug\All_in_One.pdb

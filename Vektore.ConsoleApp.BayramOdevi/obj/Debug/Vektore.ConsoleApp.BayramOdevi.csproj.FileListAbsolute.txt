@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\obj\Debug\Vektore.ConsoleApp.BayramOdevi.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\obj\Debug\Vektore.ConsoleApp.BayramOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\obj\Debug\Vektore.ConsoleApp.BayramOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\bin\Debug\Vektore.ConsoleApp.BayramOdevi.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\bin\Debug\Vektore.ConsoleApp.BayramOdevi.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\bin\Debug\Vektore.ConsoleApp.BayramOdevi.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\obj\Debug\Vektore.ConsoleApp.BayramOdevi.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektore.ConsoleApp.BayramOdevi\obj\Debug\Vektore.ConsoleApp.BayramOdevi.pdb

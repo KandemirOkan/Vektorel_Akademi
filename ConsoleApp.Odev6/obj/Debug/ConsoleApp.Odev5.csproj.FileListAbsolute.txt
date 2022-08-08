@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\obj\Debug\ConsoleApp.Odev5.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\obj\Debug\ConsoleApp.Odev5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\obj\Debug\ConsoleApp.Odev5.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\bin\Debug\ConsoleApp.Odev6.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\bin\Debug\ConsoleApp.Odev6.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\bin\Debug\ConsoleApp.Odev6.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\obj\Debug\ConsoleApp.Odev6.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ConsoleApp.Odev6\obj\Debug\ConsoleApp.Odev6.pdb

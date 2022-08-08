@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\obj\Debug\Vektorel.ConsoleApp.Odev4.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\obj\Debug\Vektorel.ConsoleApp.Odev4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\obj\Debug\Vektorel.ConsoleApp.Odev4.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\bin\Debug\Vektorel.ConsoleApp.Odev4.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\bin\Debug\Vektorel.ConsoleApp.Odev4.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\bin\Debug\Vektorel.ConsoleApp.Odev4.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\obj\Debug\Vektorel.ConsoleApp.Odev4.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Vektorel.ConsoleApp.Odev4\obj\Debug\Vektorel.ConsoleApp.Odev4.pdb
