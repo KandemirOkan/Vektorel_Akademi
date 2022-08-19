@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\obj\Debug\Ado.Net.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\obj\Debug\Ado.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\obj\Debug\Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\bin\Debug\Ado.Net.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\bin\Debug\Ado.Net.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\bin\Debug\Ado.Net.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\obj\Debug\Ado.Net.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\Ado.Net\obj\Debug\Ado.Net.pdb
