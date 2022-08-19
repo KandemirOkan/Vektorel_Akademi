@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All_in_One", "All_in_One\Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektore.ConsoleApp.BayramOdevi", "Vektore.ConsoleApp.BayramOdevi\Vektore.ConsoleApp.BayramOdevi.csproj", "{4DDE9631-7D28-46D3-ADB7-6CBE838DEB24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Layered_Project", "Multi_Layered_Project\Multi_Layered_Project.csproj", "{19CA6801-EFE5-46A1-AD4B-3F2AF73BD1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.Net", "Ado.Net\Ado.Net.csproj", "{EC6E9969-BDBC-474B-9076-7FC20532AF80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{4DDE9631-7D28-46D3-ADB7-6CBE838DEB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDE9631-7D28-46D3-ADB7-6CBE838DEB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDE9631-7D28-46D3-ADB7-6CBE838DEB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA6801-EFE5-46A1-AD4B-3F2AF73BD1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA6801-EFE5-46A1-AD4B-3F2AF73BD1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA6801-EFE5-46A1-AD4B-3F2AF73BD1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA6801-EFE5-46A1-AD4B-3F2AF73BD1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6E9969-BDBC-474B-9076-7FC20532AF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6E9969-BDBC-474B-9076-7FC20532AF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6E9969-BDBC-474B-9076-7FC20532AF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6E9969-BDBC-474B-9076-7FC20532AF80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
