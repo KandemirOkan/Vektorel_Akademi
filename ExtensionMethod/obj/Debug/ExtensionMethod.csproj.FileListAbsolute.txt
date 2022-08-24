@@ -1,0 +1,9 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CopyComplete
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

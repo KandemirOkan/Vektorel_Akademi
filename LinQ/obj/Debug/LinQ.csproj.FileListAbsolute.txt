@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\obj\Debug\LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\bin\Debug\LinQ.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\bin\Debug\LinQ.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\obj\Debug\LinQ.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\LinQ\obj\Debug\LinQ.pdb
