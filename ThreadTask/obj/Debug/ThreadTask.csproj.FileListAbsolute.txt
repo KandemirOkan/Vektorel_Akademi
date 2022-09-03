@@ -1,0 +1,8 @@
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\bin\Debug\ThreadTask.exe.config
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\bin\Debug\ThreadTask.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\bin\Debug\ThreadTask.pdb
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\obj\Debug\ThreadTask.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\obj\Debug\ThreadTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\obj\Debug\ThreadTask.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\obj\Debug\ThreadTask.exe
+C:\Users\Okan\Desktop\Visual-Studio-Projects\Vektorel\ThreadTask\obj\Debug\ThreadTask.pdb
